@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand Salunkhe  
 
-**Data Analyst → Data Engineer → Data Scientist** | SQL • Python • Power BI • ETL • Machine Learning  
+**Data Analyst → Data Engineer → Data Scientist** | SQL • Python • Power BI • Advanced Excel • ETL • Machine Learning  
 
 ---
 
@@ -12,7 +12,7 @@ Data Analyst with proven experience in SQL, data visualization, and business int
 
 ### 💼 Core Strengths (Data Analyst)  
 - **SQL** (PostgreSQL, MySQL, SQL Server) - Advanced querying, optimization  
-- **Data Visualization** (Power BI, Tableau, Excel)  
+- **Data Visualization** (Power BI, Tableau, Advanced Excel)  
 - **Business Intelligence** & Reporting - KPI dashboards, stakeholder communication  
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Statistical Analysis** & A/B Testing  
