@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand Salunkhe  
 
-**Data Analyst → Data Engineer → Data Scientist** | SQL • Python • Power BI • Advanced Excel • ETL • Machine Learning  
+**Data Analyst → Data Engineer → Data Scientist** | SQL • Python • Power BI • Advanced Excel • ETL • Machine Learning • Full Stack Developer 
 
 ---
 
