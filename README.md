@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand Salunkhe  
 
-**Full Stack Developer & Data Enthusiast** | SQL • Python • Power BI • Advanced Excel • ETL • Machine Learning • JavaScript
+**Full Stack Developer & Data Enthusiast** | SQL • Python • Power BI • ETL • Machine Learning • JavaScript • Advanced Excel
 
 ---
 
