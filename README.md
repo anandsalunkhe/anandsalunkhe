@@ -43,4 +43,4 @@ Data Analyst with proven experience in SQL, data visualization, and business int
 ---
 
 Reach me out: **salunkheanand16@gmail.com**  
-🔗 [Portfolio](https://anandsalunkhe.dev) | [LinkedIn](https://www.linkedin.com/in/anand-salunkhe9/) | [GitHub](https://github.com/anandsalunkhe)  
+🔗[LinkedIn](https://www.linkedin.com/in/anand-salunkhe9/) | [GitHub](https://github.com/anandsalunkhe)  
