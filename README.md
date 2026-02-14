@@ -1,46 +1,42 @@
 # 👋 Hi, I'm Anand Salunkhe  
 
-**Full Stack Developer & Data Enthusiast** | SQL • Python • Power BI • ETL • Machine Learning • JavaScript • Advanced Excel
+**Microsoft & Databricks-Certified Data Engineer** | Azure • Microsoft Fabric • PySpark • Delta Lake • Airflow • SQL • Python  
 
 ---
 
-## About Me
-Data Analyst with proven experience in SQL, data visualization, and business intelligence. Currently transitioning into **Data Engineering** by building ETL pipelines, learning Apache Airflow, and working with cloud data platforms. My goal is to eventually move into **Data Science** and machine learning. Passionate about leveraging data to drive decisions and continuously upskilling in modern data technologies. In my free time, I work on data engineering projects and ML algorithms.
-
+## 👨‍💻 About Me
+I am a Data Engineer with strong hands-on experience in cloud data platforms, Lakehouse architectures, and end-to-end ETL/ELT development. Skilled in API-based data ingestion, distributed processing with PySpark, and pipeline orchestration. While I have a solid foundation in data analytics and business intelligence, my core focus is building scalable, robust data workflows using the Medallion architecture (Bronze–Silver–Gold). I am passionate about leveraging modern data technologies to drive decisions and am continuously expanding my expertise into Data Science and Machine Learning.
 
 ## ⚡ Skills  
 
-### 💼 Core Strengths (Data Analyst)  
-- **SQL** (PostgreSQL, MySQL, SQL Server) - Advanced querying, optimization  
-- **Data Visualization** (Power BI, Tableau, Advanced Excel)  
-- **Business Intelligence** & Reporting - KPI dashboards, stakeholder communication  
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Statistical Analysis** & A/B Testing  
+### ☁️ Data Engineering & Cloud  
+- **Platforms:** Microsoft Fabric, Azure Databricks, Azure Data Factory (ADF), ADLS Gen2  
+- **Architecture & Concepts:** Lakehouse Architecture, Medallion Architecture, ETL/ELT, Incremental Loads, CDC, SCD, Data Quality Validation  
+- **Processing & Storage:** Apache Spark, PySpark, Delta Lake  
+- **Orchestration:** Apache Airflow, Fabric Data Factory  
 
-### 🚀 Currently Learning (Data Engineering)  
-- **ETL/ELT Pipelines** - Building data workflows  
-- **Apache Airflow** - Workflow orchestration  
-- **Apache Spark** & PySpark - Big data processing  
-- **Cloud Platforms** (AWS S3, Glue, Redshift)  
-- **dbt** (Data Build Tool) - Data transformation  
-- **Docker** & containerization  
+### 💻 Languages & Development  
+- **Languages:** Python, SQL (MySQL, PostgreSQL, Spark SQL), Java, C/C++  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Docker  
 
-### 🎯 Future Goals (Data Science)  
-- Machine Learning (Scikit-learn, TensorFlow)  
-- Deep Learning & Neural Networks  
+### 📊 Data Analytics & BI  
+- **Visualization & Reporting:** Power BI, Tableau, Advanced Excel  
+- **Analysis:** Statistical Analysis, KPI Dashboards, Stakeholder Communication  
+
+### 🎯 Future Goals (Data Science & ML)  
+- Deepening knowledge in Machine Learning (Scikit-learn, TensorFlow)  
 - MLOps & Model Deployment  
-- Advanced Statistics & Predictive Modeling  
+- Advanced Predictive Modeling & Real-time Analytics  
 
 ---
 
-## 🌱 Currently Building  
-- **ETL Pipelines** using Python and Airflow to automate data workflows  
-- **End-to-end data projects** combining analytics, engineering, and basic ML  
-- Learning **Apache Spark** for big data processing  
-- Exploring **machine learning fundamentals** with real-world datasets  
-- Contributing to open-source data projects on GitHub
+## 🌱 Currently Building & Exploring  
+- **Wikipedia ETL Data Pipeline:** Orchestrating an end-to-end batch pipeline using Airflow and PySpark into Delta Lake on ADLS Gen2.  
+- **News Analytics Platform:** Building real-time ingestion and sentiment analysis pipelines on Microsoft Fabric using Synapse and OneLake.  
+- **Advanced PySpark Optimizations:** Exploring column pruning, intermediate DataFrame reuse, and execution efficiency for large-scale data.  
 
 ---
 
-Reach me out: **salunkheanand16@gmail.com**  
-🔗[LinkedIn](https://www.linkedin.com/in/anand-salunkhe9/) | [GitHub](https://github.com/anandsalunkhe)  
+## 📫 Let's Connect!  
+**Email:** anandsalunkhe108@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/anand-salunkhe9) | 💻 [GitHub](https://github.com/anandsalunkhe) | 🌐 [Portfolio](https://anandsalunkhe.dev)
