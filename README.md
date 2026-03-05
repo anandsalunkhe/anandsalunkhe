@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand Salunkhe  
 
-**Microsoft & Databricks-Certified Data Engineer** | Azure • Microsoft Fabric • PySpark • Delta Lake • Airflow • SQL • Python  
+**Microsoft & Databricks-Certified Data Engineer** | Azure • Microsoft Fabric • PySpark • Delta Lake • Airflow • SQL • Python • GenAI  
 
 ---
 
