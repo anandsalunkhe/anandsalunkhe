@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand Salunkhe  
 
-**Data Engineer | Cloud Data Platforms & Financial Data Systems**  
+**Full Stack Developer | Data Engineer | Cloud Data Platforms & Financial Data Systems**  
 Python • PySpark • PostgreSQL • Microsoft Fabric • Databricks • TimescaleDB • C++
 
 ---
