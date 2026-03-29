@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand Salunkhe  
 
-**Full Stack Developer | Data Engineer | Data Analyst |
+**Full Stack Developer | Data Engineer | Data Analyst**
 
 Python • PySpark • SQL • Microsoft Fabric • Databricks • TimescaleDB • C++ • ADF
 
