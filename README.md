@@ -51,5 +51,5 @@ Recently, I have expanded my focus into **quantitative finance and high-frequenc
 ---
 
 ## 📫 Let's Connect!  
-**Email:** [anandsalunkhe108@gmail.com](mailto:anandsalunkhe1608@gmail.com)  
+**Email:** [anandsalunkhe1608@gmail.com](mailto:anandsalunkhe1608@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/anand-salunkhe9) | 💻 [GitHub](https://github.com/anandsalunkhe) |
