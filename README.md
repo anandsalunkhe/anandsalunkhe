@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anand Salunkhe  
 
-**Full Stack Developer | Data Engineer | Cloud Data Platforms & Financial Data Systems**  
-Python • PySpark • SQL • Microsoft Fabric • Databricks • TimescaleDB • C++
+**Full Stack Developer | Data Engineer | Data Analyst 
+Python • PySpark • SQL • Microsoft Fabric • Databricks • TimescaleDB • C++ • ADF
 
 ---
 
@@ -34,11 +34,6 @@ Recently, I have expanded my focus into **quantitative finance and high-frequenc
 
 ## 🌱 Currently Building & Exploring  
 
-**Financial Data Systems:**
-- **Real-Time Tick Data Ingestor:** Engineered an `asyncio` & WebSocket pipeline processing 5K+ ticks/sec, stored in highly optimized PostgreSQL/TimescaleDB hypertables.
-- **Automated Trade Reconciliation & MFT Monitor:** Building a Pandas-based system to cross-reference internal logs with broker feeds and resample raw ticks into 1-min OHLCV bars to detect volume spikes.
-- **Pipeline Optimization:** Exploring C++ integration with Python using `pybind11` to reduce ingestion latency for critical data parsers.
-
 **Cloud Data Engineering:**
 - **Wikipedia ETL Data Pipeline:** Orchestrating an end-to-end batch pipeline using Airflow and PySpark into Delta Lake on ADLS Gen2.  
 - **News Analytics Platform:** Building real-time ingestion and sentiment analysis pipelines on Microsoft Fabric using Synapse and OneLake.  
@@ -55,5 +50,5 @@ Recently, I have expanded my focus into **quantitative finance and high-frequenc
 ---
 
 ## 📫 Let's Connect!  
-**Email:** [anandsalunkhe108@gmail.com](mailto:anandsalunkhe108@gmail.com)  
+**Email:** [anandsalunkhe108@gmail.com](mailto:anandsalunkhe1608@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/anand-salunkhe9) | 💻 [GitHub](https://github.com/anandsalunkhe) |
