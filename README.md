@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Data Engineer | Data Analyst**
 
-Python • PySpark • SQL • Microsoft Fabric • Databricks • TimescaleDB • C++ • ADF
+Python • PySpark • SQL • Microsoft Fabric • Databricks • ADF
 
 ---
 
@@ -19,13 +19,8 @@ Recently, I have expanded my focus into **quantitative finance and high-frequenc
 - **Processing & Orchestration:** Apache Spark, PySpark, Delta Lake, Apache Airflow  
 
 ### 🚀 Real-Time Engineering & Core Tech  
-- **Languages:** Python (Pandas, NumPy, asyncio), SQL (PostgreSQL, MySQL, Spark SQL), C++ (via pybind11), Java  
-- **Time-Series & Streaming:** TimescaleDB, WebSockets, Kafka, Redis
+- **Languages:** Python (Pandas, NumPy, asyncio), SQL (PostgreSQL, MySQL, Spark SQL)  
 - **Tools & Infra:** Linux, Docker, Git, VS Code, Jupyter Notebook
-
-### 📈 Trade Operations & Financial Data
-- **Domain Focus:** End-of-Day (EOD) Trade Reconciliation, Order Flow Monitoring, VWAP Calculation, Shift-wise Reporting
-- **Financial Processing:** Tick-level data pipelines, Medium Frequency Trading (MFT) data modeling, System Exception Tracking
 
 ### 📊 Data Analytics & BI  
 - **Visualization:** Power BI, Tableau, Advanced Excel  
