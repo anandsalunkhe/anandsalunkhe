@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Data Engineer | Data Analyst**
 
-Python • PowerBI • SQL • Power BI • Microsoft Fabric • Databricks • ADF
+Python • PowerBI • SQL • Microsoft Fabric • Databricks • ADF
 
 ---
 
