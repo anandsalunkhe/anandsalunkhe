@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand Salunkhe  
 
-**Full Stack Developer | Data Engineer | Data Analyst**
+**Full Stack Developer | Data Engineer | AI Engineer**
 
 Python • PowerBI • SQL • Microsoft Fabric • Databricks • ADF
 
