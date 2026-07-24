@@ -7,7 +7,7 @@ Python • PowerBI • SQL • Microsoft Fabric • Databricks • ADF
 ---
 
 ## 👨‍💻 About Me
-I am a Data Engineer & Data Analyst specializing in end-to-end cloud data platforms. My expertise spans the entire data lifecycle:
+I am a Data Engineer/Analyst specializing in end-to-end cloud data platforms. My expertise spans the entire data lifecycle:
 
 Analytics: Translating complex, transformed data into clear, actionable insights and visualizations that solve real-world business problems.
 
